@@ -22,5 +22,5 @@ To get started with this project, follow the steps below.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/llm-api.git
+git clone [https://github.com/your-username/llm-api.git](https://github.com/MaizaAymen/LLM_Acces_with_FastAPI_and_Ollama.git)
 cd llm-api
